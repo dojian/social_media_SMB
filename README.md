@@ -1,6 +1,4 @@
-# Aquinas: AI-Powered Social Media Engagement Tool
-
-![Aquinas Logo](./assets/logo.png)
+# AI-Powered Social Media Engagement Tool
 
 ## Introduction
 
